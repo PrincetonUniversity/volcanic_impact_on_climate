@@ -60,3 +60,4 @@ target/
 *.DS_Store
 .DS_Store
 
+update_files.py
